@@ -31,3 +31,8 @@ Escribe un programa que muestre cómo transcurre un juego de tenis y quién lo h
 * Consulta las reglas del juego si tienes dudas sobre el sistema de puntos. 
 ### Modificaciones
 Se han contemplado las reglas para que registre todo lo que seria un partido de tenis
+
+## Viernes 13
+### Enunciado
+Crea una función que sea capaz de detectar si existe un viernes 13 en el mes y el año indicados.
+* La función recibirá el mes y el año y retornará verdadero o falso.
