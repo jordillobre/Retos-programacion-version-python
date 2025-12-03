@@ -36,3 +36,10 @@ Se han contemplado las reglas para que registre todo lo que seria un partido de 
 ### Enunciado
 Crea una función que sea capaz de detectar si existe un viernes 13 en el mes y el año indicados.
 * La función recibirá el mes y el año y retornará verdadero o falso.
+
+## Cifrado César
+### Enunciado
+Crea un programa que realize el cifrado César de un texto y lo imprima.
+También debe ser capaz de descifrarlo cuando así se lo indiquemos.
+
+Te recomiendo que busques información para conocer en profundidad cómo  realizar el cifrado. Esto también forma parte del reto.
